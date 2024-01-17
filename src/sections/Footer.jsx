@@ -54,7 +54,7 @@ const Footer = () => {
             height={20}
             className="rounded-full m-0"
           />
-          <p>Copyright. Japhet Paz 2023.</p>
+          <p>Copyright. JPZ 2023.</p>
         </div>
       </div>
     </footer>
